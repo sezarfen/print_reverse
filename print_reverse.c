@@ -9,5 +9,5 @@ int print_reverse(char *str)
             write(1, str, 1);
             return 0;
         }
-    return 1; // that mean's , an something happened unexcepted
+    return 1; // that mean's , a something happened unexcepted
 }
